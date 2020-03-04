@@ -14,6 +14,8 @@ so we have to remove all the other functions such as decreaseleftRightSpeed --> 
 code so that our program can achieve what we were trying to do manually
 
 Tasks to be accomplished to make the final code working:
+
+
 1> check if the python implementation of the path planning code is working or not.
 
 2> learn about socket programming so to be able to test the code.
