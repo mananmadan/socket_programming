@@ -12,3 +12,11 @@ the forwardBackwardSpeed and the leftRightSpeed.
 
 so we have to remove all the other functions such as decreaseleftRightSpeed --> basically the functions that are written for keyboard_Detection of calculating the velocity and put our path planning code in this
 code so that our program can achieve what we were trying to do manually
+
+Tasks to be accomplished to make the final code working.
+
+1> check if the python implementation of the path planning code is working or not.
+2> learn about socket programming so to be able to test the code.
+3>also some minor changes have to done in the path planning code to use it for differential drive robot.
+    --> for this task basically have to figure out the math so that the server percives the command you are sending as the commands of a differential model.
+    
