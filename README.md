@@ -23,3 +23,6 @@ Tasks to be accomplished to make the final code working:
 
 3>also some minor changes have to done in the path planning code to use it for differential drive robot.
     --> for this task basically have to figure out the math so that the server percives the command you are sending as the commands of a differential model.
+
+  figure out the maths, already written code will function , now have to integrate the path planning module into the code and then convert the commands as per calculated for the differential drive robot
+  and publish it on the socket in sendDatatoRaspi functions
