@@ -26,3 +26,6 @@ Tasks to be accomplished to make the final code working:
 
   figure out the maths, already written code will function , now have to integrate the path planning module into the code and then convert the commands as per calculated for the differential drive robot
   and publish it on the socket in sendDatatoRaspi functions
+
+The work to be done till sunday is to create the motor controller for the rover.
+-->that is done
